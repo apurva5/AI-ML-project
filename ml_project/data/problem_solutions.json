@@ -1,0 +1,16 @@
+[
+  {
+    "technology": ["Python", "Django"],
+    "problem_description": "A web application for managing user data",
+    "gitlab_solution": "A Django-based web application for managing user profiles",
+    "git": "https://gitlab.com/example/project1",
+    "packaging_type": "microservices"
+  },
+  {
+    "technology": ["Machine Learning"],
+    "problem_description": "Predicting customer churn",
+    "gitlab_solution": "A machine learning model for predicting customer churn using historical data",
+    "git": "https://gitlab.com/example/project2",
+    "packaging_type": "container image"
+  }
+]

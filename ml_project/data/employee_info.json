@@ -1,0 +1,12 @@
+[
+  {
+    "name": "John Doe",
+    "technology": ["Python", "Django", "Machine Learning"],
+    "proficiency": {"Python": 4, "Django": 3, "Machine Learning": 5}
+  },
+  {
+    "name": "Jane Smith",
+    "technology": ["Python", "Flask", "Deep Learning"],
+    "proficiency": {"Python": 5, "Flask": 4, "Deep Learning": 5}
+  }
+]

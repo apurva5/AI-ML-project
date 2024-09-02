@@ -1,0 +1,82 @@
+[
+  {
+    "technology": ["Python", "Flask"],
+    "problem_description": "A RESTful API for managing blog posts",
+    "gitlab_solution": "A Flask-based web service for CRUD operations on blog posts",
+    "git": "https://gitlab.com/example/project1",
+    "packaging_type": "container image",
+    "label": 1
+  },
+  {
+    "technology": ["Java", "Spring Boot"],
+    "problem_description": "Microservice for processing orders in an e-commerce platform",
+    "gitlab_solution": "A Spring Boot application for handling order processing",
+    "git": "https://gitlab.com/example/project2",
+    "packaging_type": "microservices",
+    "label": 1
+  },
+  {
+    "technology": ["JavaScript", "Node.js"],
+    "problem_description": "Backend service for user authentication and authorization",
+    "gitlab_solution": "A Node.js application for managing user authentication and tokens",
+    "git": "https://gitlab.com/example/project3",
+    "packaging_type": "container image",
+    "label": 1
+  },
+  {
+    "technology": ["Go", "Kubernetes"],
+    "problem_description": "A distributed system for logging and monitoring",
+    "gitlab_solution": "A Go application deployed on Kubernetes for logging and monitoring",
+    "git": "https://gitlab.com/example/project4",
+    "packaging_type": "kubernetes deployment",
+    "label": 1
+  },
+  {
+    "technology": ["Ruby", "Rails"],
+    "problem_description": "A web application for e-commerce",
+    "gitlab_solution": "A Ruby on Rails app for managing an online store",
+    "git": "https://gitlab.com/example/project5",
+    "packaging_type": "container image",
+    "label": 1
+  },
+  {
+    "technology": ["Python", "TensorFlow"],
+    "problem_description": "Image classification model for detecting animals in photos",
+    "gitlab_solution": "A TensorFlow model for classifying images into animal categories",
+    "git": "https://gitlab.com/example/project6",
+    "packaging_type": "container image",
+    "label": 1
+  },
+  {
+    "technology": ["JavaScript", "React"],
+    "problem_description": "Frontend application for managing a to-do list",
+    "gitlab_solution": "A React application for creating, updating, and deleting tasks",
+    "git": "https://gitlab.com/example/project7",
+    "packaging_type": "static site",
+    "label": 0
+  },
+  {
+    "technology": ["Scala", "Apache Spark"],
+    "problem_description": "Data pipeline for processing large-scale log data",
+    "gitlab_solution": "A Spark-based pipeline for processing and analyzing log data",
+    "git": "https://gitlab.com/example/project8",
+    "packaging_type": "container image",
+    "label": 0
+  },
+  {
+    "technology": ["R", "Shiny"],
+    "problem_description": "A dashboard for visualizing financial data",
+    "gitlab_solution": "An R Shiny application for interactive financial data visualization",
+    "git": "https://gitlab.com/example/project9",
+    "packaging_type": "container image",
+    "label": 0
+  },
+  {
+    "technology": ["Python", "FastAPI"],
+    "problem_description": "An API for sentiment analysis of text data",
+    "gitlab_solution": "A FastAPI service for performing sentiment analysis on text",
+    "git": "https://gitlab.com/example/project10",
+    "packaging_type": "container image",
+    "label": 0
+  }
+]
